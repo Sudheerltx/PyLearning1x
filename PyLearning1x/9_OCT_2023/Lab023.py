@@ -1,5 +1,5 @@
-#String Formating
-string  = "I Like %s" % "Python"
+# String Formatting
+string = "I Like %s" % "Python"
 print(string)
 
 name = input("Enter your First Name\n")

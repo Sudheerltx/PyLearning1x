@@ -14,5 +14,6 @@ my_task_list = ["need to finish the task 1", "task2", "read book"]
 # Mix Data Types
 misc_list = ["pramod","dutta", 34, "car", True]
 print(len(misc_list))
+print(misc_list)
 
 

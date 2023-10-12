@@ -1,7 +1,7 @@
 # String
 # Bunch of Char
 name = "pramod"
-name = "dutta"
+# name = "dutta"
 
 # String Functions
 # Python String Immutable in Nature - They can't changed!, One Created
@@ -52,38 +52,35 @@ print(len(name))
 
 # Replace
 text = "hello world"
-result_rep = text.replace("world","Python")
+result_rep = text.replace("world" , "Python")
 print(result_rep)
 
-#index and len
-name  = "pramod"
+# index and len
+name = "pramod"
 # len -> 1
 print(len(name))
 # index - 0 to len-1
 # p - 0, r - 1, a - 2, m - 3 , 0-4, d -5
 
 
-#find()
-#Returns the lowest index of a substring in the string.
+# find()
+# Returns the lowest index of a substring in the string.
 # Returns -1 if the substring is not found.
 
 text = "hello world"
 index = text.find("world")
 print(index)
 
-
-
-#count() - count the char -
+# count() - count the char -
 count = text.count("l")
 print(count)
 
 
-name  = "p d"
+name = "p d"
 print(len(name))
 
 
-name   = "pramod"
+name = "pramod"
 print(name)
-del name
-print(name)
-
+del name  # to delete a variable
+# print(name)

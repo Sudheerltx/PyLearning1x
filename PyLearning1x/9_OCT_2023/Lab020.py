@@ -7,12 +7,12 @@ name = None
 a = None
 b = None
 
-#val = None + 2
+# val = None + 2
 # unsupported operand type(s) for +: 'NoneType' and 'int'
 print(val)
-name = "pramod"
-print(name)
-print (type(val)) #<class 'NoneType'>
+name1 = "pramod"
+print(name1)
+print(type(val)) # <class 'NoneType'>
 print(id(val))
 
 # print(len(val)) # print(len(val)) this is not possible
