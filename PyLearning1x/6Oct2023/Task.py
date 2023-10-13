@@ -21,6 +21,7 @@ print(f'{n} X 10 = {n*10}')
 # 2*10 = 20
 
 # String.format
+""" 
 row1 = "2x1={}".format(2*1)
 row2 = "2x2={}".format(2*2)
 row3 = "2x3={}".format(2*3)
@@ -41,3 +42,4 @@ print(row7)
 print(row8)
 print(row9)
 print(row10)
+"""
