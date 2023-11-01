@@ -24,7 +24,7 @@ print(result)
 x = 5  # binary: 0101
 y = 3  # binary: 0011
 result = x ^ y  # This will be 6 (binary: 0110)
-
+print(result)
 
 
 
